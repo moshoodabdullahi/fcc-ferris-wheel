@@ -1,20 +1,23 @@
-# FCC-FERRIS-WHEEL
+# FCC FERRIS WHEEL
 
-> A basic HTML and CSS element to demostrate styling.
+> A ferris wheel webpage using animate elements, transform and speed.
 
 ![screenshot](./_C__projects_fcc_fcc-ferris-wheel_index.html.png)
 
-Additional description about the project and its features.
+# This PR adds a ferris wheel webpage using animate elements, transform and speed.
 
 ## Built With
 
 - HTML5 elements
-  - `div`.
+  - Block-level elements such as `div`.
 - CSS properties
+  - CSS Positioning `absolute`,
+  - CSS transform such as `rotate`,
   - CSS Variables for reusable CSS values,
-  - CSS Media Query for page responsiveness using `@keyframes` rule,
-  - CSS Positioning `rotate`,
-  - CSS Background for page aesthetic using `background-color`.
+  - CSS speed adjust such as `infinite`, `10s`, and so on,
+  - CSS animate such as `cabins`, `ease-in-out`, and so on,
+  - CSS Background for page aesthetic using `background-color`,
+  - CSS key frames for specifying animation code using `@keyframes` rule.
 - Linters
   - [Prettier](https://prettier.io/),
   - [Stylelint](https://stylelint.io/).
@@ -29,7 +32,7 @@ Additional description about the project and its features.
 - Clone the project
 
 ```bash
-git clone https://github.com/moshoodabdullahi/html-css-template.git
+git clone https://github.com/moshoodabdullahi/fcc-ferris-wheel.git
 ```
 
 - Install Dependencies
@@ -72,7 +75,6 @@ yarn hint
 
 - [CSS Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/css.html)
 - [HTML Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/index.html)
-- [JavaScript Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
 - [Git Style Guide](https://udacity.github.io/git-styleguide/)
 
 ## 👤 Author
