@@ -4,8 +4,6 @@
 
 ![screenshot](./_C__projects_fcc_fcc-ferris-wheel_index.html.png)
 
-# This PR adds a ferris wheel webpage using animate elements, transform and speed.
-
 ## Built With
 
 - HTML5 elements
