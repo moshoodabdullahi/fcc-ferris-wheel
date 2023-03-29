@@ -9,11 +9,11 @@
 - HTML5 elements
   - Block-level elements such as `div`.
 - CSS properties
-  - CSS Positioning `absolute`,
+  - CSS Position `absolute`,
   - CSS transform such as `rotate`,
   - CSS Variables for reusable CSS values,
-  - CSS speed adjust such as `infinite`, `10s`, and so on,
-  - CSS animate such as `cabins`, `ease-in-out`, and so on,
+  - CSS speed adjust such as `infinite`, and so on,
+  - CSS animation such as `animation delay`, `timing function`, and so on,
   - CSS Background for page aesthetic using `background-color`,
   - CSS key frames for specifying animation code using `@keyframes` rule.
 - Linters
