@@ -1,27 +1,36 @@
-# Project Name
+# FCC FERRIS WHEEL
 
-> One paragraph statement about the project.
+> A ferris wheel webpage using animate elements, transform and speed.
 
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
+![screenshot](./_C__projects_fcc_fcc-ferris-wheel_index.html.png)
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML5 elements
+  - Block-level elements such as `div`.
+- CSS properties
+  - CSS Position `absolute`,
+  - CSS transform such as `rotate`,
+  - CSS Variables for reusable CSS values,
+  - CSS speed adjust such as `infinite`, and so on,
+  - CSS animation such as `animation delay`, `timing function`, and so on,
+  - CSS Background for page aesthetic using `background-color`,
+  - CSS key frames for specifying animation code using `@keyframes` rule.
+- Linters
+  - [Prettier](https://prettier.io/),
+  - [Stylelint](https://stylelint.io/).
+- GitHub Action
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://fcc-ferris-wheel.netlify.app/)
 
 ### Development (Running locally)
 
 - Clone the project
 
 ```bash
-git clone https://github.com/moshoodabdullahi/html-css-template.git
+git clone https://github.com/moshoodabdullahi/fcc-ferris-wheel.git
 ```
 
 - Install Dependencies
@@ -64,13 +73,13 @@ yarn hint
 
 - [CSS Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/css.html)
 - [HTML Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/index.html)
-- [JavaScript Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
 - [Git Style Guide](https://udacity.github.io/git-styleguide/)
 
 ## 👤 Author
 
 - Github: [@moshoodabdullahi](https://github.com/moshoodabdullahi)
 - Linkedin: [@moshoodabdullahi](https://www.linkedin.com/in/moshoodabdullahi/)
+- FreeCodeCamp: [@moshoodabdullahi](https://www.freecodecamp.org/moshoodabdullahi)
 
 ## 🤝 Contributing
 
@@ -84,9 +93,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration, resources/assets used
-- etc
+- [FreeCodeCamp](https://www.freecodecamp.org/)
 
 ## 📝 License
 
